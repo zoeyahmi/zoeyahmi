@@ -2,9 +2,6 @@
 
 I'm a Front-End Developer with a passion for creating beautiful and functional websites. Here's a little bit about me:
 
-## 🔭 Current Projects
-- **Before the Feast**: An album countdown website.
-- **My Tech Space**: My personal website showcasing my projects and blogs.
 
 ## 🌱 Learning & Goals
 - Improving my HTML and CSS skills.
