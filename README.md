@@ -14,7 +14,7 @@ I'm a Front-End Developer with a passion for creating beautiful and functional w
 
 ## 💻 Tech Stack
 - **Languages**: JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React, Vue.js
+- **Frameworks & Libraries (soon)**: React, Vue.js
 - **Tools**: Git, GitHub, VS Code
 
 ## 📈 GitHub Stats
